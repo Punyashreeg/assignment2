@@ -1,5 +1,6 @@
-int main() {
-	 int number;
+    int main() {
+         int number;
+
 
     
     printf("Enter an integer: ");
@@ -16,4 +17,4 @@ punyashree.g
 amity university
 b.tech cse
 Established in 2023, Amity Bengaluru is approved by UGC, AICTE, PCI, and BCI, with degrees recognized across India and abroad
-rowdy nanu
+rowdyu
