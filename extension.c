@@ -8,4 +8,5 @@ int main() {
 	        printf("%d is Even.\n", number);
     else
         printf("%d is Odd.\n", number);
-
+ return 0;
+}
